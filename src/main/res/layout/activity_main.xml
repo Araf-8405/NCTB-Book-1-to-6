@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="193dp"
+        android:layout_height="53dp"
+        android:layout_gravity="center"
+        android:text="    welcome"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+
+    <Button
+        android:id="@+id/buttonId"
+        android:onClick="web1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text1"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/buttonId1"
+        android:onClick="web2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text2"
+        android:textSize="20sp"
+        android:textStyle="italic"
+
+    />
+    <Button
+        android:id="@+id/buttonId2"
+        android:onClick="web3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text3"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/buttonId3"
+        android:onClick="web4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text4"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/buttonId4"
+        android:onClick="web5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text5"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/buttonId5"
+        android:onClick="web6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text6"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+
+
+    <Button
+        android:id="@+id/buttonId8"
+        android:onClick="web9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/button_text9"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+</LinearLayout>

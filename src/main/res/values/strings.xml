@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NCTB BOOK of Class vi</string>
+    <string name="button_text1">আনন্দ পাঠ(বাংলা দ্রুত পঠন) </string>
+    <string name="button_text2">English for Today </string>
+    <string name="button_text3">গণিত</string>
+    <string name="button_text4">বিজ্ঞান</string>
+    <string name="button_text5">বাংলাদেশ ও বিশ্বপরিচয়</string>
+    <string name="button_text6">তথ্য ও যোগাযোগ প্রযুক্তি  </string>
+    <string name="button_text7">শারীরিক শিক্ষা ও স্বাস্থ্য </string>
+    <string name="button_text8">English Grammer and Composition</string>
+    <string name="button_text9">About me</string>
+    <string name="textview1_text">Abdullah Al Mamun</string>
+    <string name="textview2_text">BSc in CSE</string>
+    <string name="textview3_text">Daffodil International University</string>
+    <string name="textview4_text">Id:163-15-8405</string>
+</resources>
